@@ -11,4 +11,4 @@ I'm transitioning from a career as a chef into software development and looking 
 - Building small iOS projects with UIKit
 - Learning Git and GitHub
 
-![Swift and GitHub](https://skillicons.dev/icons?i=swift,github)
+![Swift, Git, GitHub and Figma](https://skillicons.dev/icons?i=swift,git,github,figma)
