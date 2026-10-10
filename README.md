@@ -1,3 +1,4 @@
+![Oleksandr Sudarchuk](banner.PNG)
 # Hi, I'm Oleksandr 👋
 
 I'm learning Swift and iOS development, based in Tønsberg, Norway.
