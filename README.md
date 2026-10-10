@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Oleksandr 👋
 
-<!--
-**OleksandrSudarchuk/OleksandrSudarchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Swift and iOS development, based in Tønsberg, Norway.
 
-Here are some ideas to get you started:
+I'm transitioning from a career as a chef into software development and looking for my first experience through an internship, trainee role, or praksis opportunity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Strengthening my Swift fundamentals
+- Building small iOS projects with UIKit
+- Learning Git and GitHub
+
+![Swift and GitHub](https://skillicons.dev/icons?i=swift,github)
